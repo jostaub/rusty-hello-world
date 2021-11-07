@@ -2,13 +2,13 @@ name: Simple Rust test
 
 on:
   push:
-    branches: [ $default-branch ]
+    branches: [ main ]
 
 env:
   CARGO_TERM_COLOR: always
 
 jobs:
-  build:
+  test:
 
     runs-on: ubuntu-latest
 
