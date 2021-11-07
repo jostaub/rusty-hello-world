@@ -1,4 +1,7 @@
-# rusty-hello-world
+# Hello World in Rust!
+
+![GitHub repo size](https://img.shields.io/github/repo-size/jostaub/rusty-hello-world)
+
 My first Rust programm.
 
 ## Test Project
