@@ -1,6 +1,6 @@
 # Hello World in Rust!
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jostaub/rusty-hello-world)
+![GitHub repo size](https://img.shields.io/github/repo-size/jostaub/rusty-hello-world)![GitHub last commit](https://img.shields.io/github/last-commit/jostaub/rusty-hello-world)
 
 My first Rust programm.
 
